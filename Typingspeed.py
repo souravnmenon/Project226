@@ -1,7 +1,7 @@
 from pynput.keyboard import Key, Listener
 import datetime
 
-sentence = "  An Ethical Hacker is a skilled professional who has excellent technical knowledge and skills and knows how to identify and exploit vulnerabilities in target systems. He works with the permission of the owners of systems. An ethical Hacker must comply with the rules of the target organization or owner and the law of the land and their aim is to assess the security posture of a target organization/system."
+sentence = "The sun dipped below the horizon, casting a golden glow over the tranquil sea. Birds chirped their final songs of the day, as a gentle breeze rustled through the palm trees. With a deep breath, Emma savored the peaceful moment, feeling grateful for the beauty that surrounded her."
 print("Type this as fast as you can!")
 print(sentence)
 correct, incorrect = 0, 0
